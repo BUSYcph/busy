@@ -1,10 +1,15 @@
 ---
 client: "aller"
 title: "Aller Pling"
-description: "TODO"
+description: "Pling offers customers all their favorite magazines gathered in one app, always providing the latest issue at their fingertips, whether they’re reading at home, on the train or on vacation."
 cover: "/cover/pling.mp4"
 activities: ["Website", "Sketch", "JavaScript", "CSS", "HTML", "Patternlab"]
-examples: ["/video/client-work-pling-01.mp4", "/video/client-work-pling-02.mp4", "/video/client-work-pling-03.mp4"]
+examples:
+  [
+    "/video/client-work-pling-01.mp4",
+    "/video/client-work-pling-02.mp4",
+    "/video/client-work-pling-03.mp4",
+  ]
 ---
 
 Pling offers customers all their favorite magazines gathered in one app, always providing the latest issue at their fingertips, whether they’re reading at home, on the train or on vacation.

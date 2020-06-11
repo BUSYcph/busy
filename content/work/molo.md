@@ -1,7 +1,7 @@
 ---
 client: "molo"
 title: "Molo"
-description: "TODO"
+description: "Molo is children’s fashion that’s heavy on the charm. The design is a mix of fun, witty details and a cleaner, “raw” Scandinavian look."
 cover: "/cover/molo.mp4"
 activities: ["UX", "Design", "Sketch", "AngularJS", "React", "CSS", "HTML"]
 examples: ["/video/client-work-molo.mp4"]

@@ -1,6 +1,7 @@
 ---
 title: "Orograms"
-description: "TODO"
+description: "Through an innovative data model built on newest medical
+research, Orograms helps doctors predict the likelihood of relapse and death for patients with oropharyngeal cancer."
 cover: "/cover/orograms.mp4"
 activities: ["Website", "React", "CSS", "HTML"]
 client: "rigshospitalet"

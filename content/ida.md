@@ -1,6 +1,6 @@
 ---
 title: "Ingeniørforeningen IDA"
-description: "TODO"
+description: "Ingeniørforeningen IDA wanted to gather its three existing websites under one single portal on top of a rebranded and unifying UI to increase coeherence between their offers and products, as well as to increase overall brand awareness among members."
 cover: "/cover/ida.mp4"
 activities: ["UX", "Design", "React", "TypeScript", "Sketch", "CSS", "HTML"]
 examples: ["/video/client-work-ida.mp4"]
