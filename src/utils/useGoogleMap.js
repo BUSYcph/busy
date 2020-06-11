@@ -13,7 +13,10 @@ export default function useGoogleMap({ zoom, center, events }) {
 			const map = new google.maps.Map(mapRef.current, {
 				zoom,
 				center,
-				styles: theme.mapStyles
+				styles: theme.mapStyles,
+				mapTypeControl: false,
+				disableDefaultUI: false,
+				streetViewControl: false
 			});
 
 			const icon = {
