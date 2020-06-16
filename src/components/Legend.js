@@ -10,7 +10,7 @@ const Legend = styled.h2`
 	letter-spacing: 0.30rem;
 	${props => props.theme.breakpoints('xl')`
 		font-size: 2vw;
-		margin: 6vw auto 10vw;
+		margin: 6vw auto 7vw;
 	`}
 `;
 

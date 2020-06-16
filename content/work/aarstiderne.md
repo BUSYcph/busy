@@ -1,4 +1,5 @@
 ---
+sort_order: 3
 client: "aarstiderne"
 title: "Aarstiderne"
 description: "Aarstiderne deliver to around 45,000+ households in Denmark and 10,000 in Sweden. It's all about the joy of organic vegetables and tasty meals and Aarstiderne grows, like the seasons, year on year."

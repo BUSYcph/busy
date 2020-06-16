@@ -2,11 +2,12 @@ import { createBreakpoint } from 'styled-components-breakpoint';
 
 export const theme = {
 	breakpoints: createBreakpoint({
-	  xs: 0,
-	  sm: 576,
-	  md: 768,
-	  lg: 992,
-	  xl: 1200,
+		xs: 1,
+		sm: 576,
+		md: 768,
+		lg: 992,
+		xl: 1680,
+		xxl: 1920
 	}),
 	mapStyles: [
 		{

@@ -1,4 +1,5 @@
 ---
+sort_order: 5
 client: "molo"
 title: "Molo"
 description: "Molo is children’s fashion that’s heavy on the charm. The design is a mix of fun, witty details and a cleaner, “raw” Scandinavian look."
