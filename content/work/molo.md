@@ -1,4 +1,5 @@
 ---
+sort_order: 5
 client: "molo"
 title: "Molo"
 description: "Molo is children’s fashion that’s heavy on the charm. The design is a mix of fun, witty details and a cleaner, “raw” Scandinavian look."
@@ -17,7 +18,7 @@ The design is a mix of fun, witty details and a cleaner, “raw” Scandinavian 
 
 BUSY has been working on expanding features for their webshop Molo.com.
 
-BUSY has also helped in the devlopment for new features and performance optimisations in their internal apps which acts as vital tools for warehouse employees, store owners as well as sales staff.
+BUSY has also helped in the development for new features and performance optimisations in their internal apps which acts as vital tools for warehouse employees, store owners as well as sales staff.
 
 A lot of their apps are custom build on an Angular frontend.
 

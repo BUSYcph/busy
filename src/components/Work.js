@@ -18,16 +18,24 @@ const Title = styled.h2`
 	margin-bottom: 3rem;
 `;
 
+const StyledLink = styled(Link)`
+	display: block;
+	overflow: hidden;
+`;
+
 const Cases = styled.div`
 	width: 90%;
-	${props => props.theme.breakpoints('sm')`
+	${props => props.theme.breakpoints('lg')`
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-row-gap: .5vw;
+		grid-column-gap: .5vw;
+	`}
+	${props => props.theme.breakpoints('xl')`
 		margin: 0 auto 7rem;
 		width: 80%;
 		max-width: 2000px;
-		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
-		grid-row-gap: .5vw;
-		grid-column-gap: .5vw;
 	`}
 `;
 
@@ -37,7 +45,7 @@ const Case = styled.div`
 	position: relative;
 	overflow: hidden;
 
-	${props => props.theme.breakpoints('sm')`
+	${props => props.theme.breakpoints('xl')`
 		margin-bottom: 0;
 	`}
 
@@ -54,8 +62,9 @@ const Case = styled.div`
 
 
 const InfoOverlay = styled.div`
-	display: none;
-	${props => props.theme.breakpoints('md')`
+display: none;
+background: green;
+	${props => props.theme.breakpoints('lg')`
 		pointer-events: none;
 		font-family: "europa", sans-serif;	
 		position: absolute;
@@ -73,7 +82,7 @@ const InfoOverlay = styled.div`
 		justify-content: flex-end;
 		box-sizing: border-box;
 		will-change: transform;
-		transform: translateY(100%);
+		transform: translateY(150%);
 		transition: transform 0.3s cubic-bezier(0.83, 0, 0.17, 1);
 	`}
 `;
@@ -89,9 +98,13 @@ const InfoCoverHeading = styled.h1`
 
 const InfoCoverDescription = styled.p`
 	font-weight: 300;
-	font-size: 1.3rem;
-	line-height: 2.5rem;
 	margin: 0 0 2rem 0;
+	font-size: 1rem;
+	line-height: 1.25rem;
+	${props => props.theme.breakpoints('lg')`
+		font-size: 1.3rem;
+		line-height: 2.5rem;
+	`}
 `;
 
 const InfoCoverMore = styled.div`
@@ -108,19 +121,22 @@ export default React.forwardRef(({ heading }, ref) => {
 	const data = useStaticQuery(
 		graphql`
 			query {
-				allMarkdownRemark {
+				allMarkdownRemark
+				(sort: { fields: [frontmatter___sort_order], order: ASC })
+				{
 					edges {
 						node {
-						  frontmatter {
-							title
-							description
-							cover
-						  }
-						  fields {
-							slug
-						  }
+					  		frontmatter {
+								sort_order
+								title
+								description
+								cover
+					  		}
+					  		fields {
+								slug
+					  		}
 						}
-					  }
+				  	}
 				}
 			}
 		`
@@ -135,7 +151,7 @@ export default React.forwardRef(({ heading }, ref) => {
 			<Title>{heading}</Title>
 
 			<Cases>
-				{workCases.reverse().map(workCase => {
+				{workCases.map(workCase => {
 					const {
 						title,
 						description,
@@ -152,7 +168,7 @@ export default React.forwardRef(({ heading }, ref) => {
 
 					return (
 						<Case key={slug}>
-							<Link to={slug}>
+							<StyledLink to={slug}>
 								<InfoOverlay>
 									<InfoCoverHeading>{title}</InfoCoverHeading>
 									<InfoCoverDescription>{description}</InfoCoverDescription>
@@ -164,7 +180,7 @@ export default React.forwardRef(({ heading }, ref) => {
 									{...componentAttributes}
 									src={cover}
 								/>
-							</Link>
+							</StyledLink>
 						</Case>
 					);
 				})}

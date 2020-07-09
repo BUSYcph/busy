@@ -29,8 +29,8 @@ const Client = styled.div`
 	width: 50%;
 	transition: transform 200ms ease-in-out;
 	${props => props.theme.breakpoints('md')`
-		width: 25%;
-		height: 5rem;
+		width: 33%;
+		height: 6rem;
   	`}
 `;
 
@@ -45,6 +45,9 @@ const ClientLogo = styled.img`
 
 export default ({ onClick }) => (
 	<Clients onClick={onClick}>
+		<Client>
+			<ClientLogo src="/images/clients/client-brobizz.png" alt="BroBizz Logo" />
+		</Client>
 		<Client>
 			<ClientLogo src="/images/clients/client-aarstiderne.png" alt="Aarstiderne Logo" />
 		</Client>
