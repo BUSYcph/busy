@@ -17,7 +17,7 @@ BroBizz is a Danish system for electronic toll collection. It was established in
 
 The project includes private and business areas, which are distributed across four country sites in two languages each. It is built on top of the CMS system Umbraco.
 
-BUSY provided the entire frontend layer for the assignment. We built a robust design system driven component library, which in its robust and reusable nature ensures a high brand consistency throughout the application.
+BUSY provided the entire frontend layer for the assignment. We built a design system driven component library, which in its robust and reusable nature ensures a high brand consistency throughout the application.
 
 The server side rendered React-application is used both on the public facing site, as well as being cleverly mounted in small chunks in the preview function of the CMS system, so that the editor will always be served the same view in the CMS when editing as the final result will render for the page visitors.
 
