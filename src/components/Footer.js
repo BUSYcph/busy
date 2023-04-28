@@ -94,14 +94,14 @@ export default () => {
 	return (
 		<Footer>
 			<FooterSection>
-				<GoogleMap zoom={17} center={{ lat: 55.679370, lng: 12.579320 }} />
+				<GoogleMap zoom={17} center={{ lat: 55.69914, lng: 12.58006 }} />
 			</FooterSection>
 			<FooterSectionAddress>
 				<Address itemScope="" itemType="http://schema.org/ProfessionalService">
 					<p itemProp="name">BUSY ApS</p><br />
 					<div className="address" itemProp="address" itemScope="" itemType="http://schema.org/PostalAddress">
-						<p itemProp="streetAddress">Købmagergade 5, 3. sal</p>
-						<p><span itemProp="postalCode">1150</span> <span itemProp="addressLocality">København K</span></p>
+						<p itemProp="streetAddress">Rosenvængets Allé 11, 1. sal</p>
+						<p><span itemProp="postalCode">2100</span> <span itemProp="addressLocality">København Ø</span></p>
 					</div>
 					<br />
 					<a href="tel:+4530124205" className="phone" itemProp="telephone" content="+4530124205">30 12 42 05</a>

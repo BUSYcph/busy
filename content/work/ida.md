@@ -1,5 +1,5 @@
 ---
-sort_order: 4
+sort_order: 5
 title: "Ingeniørforeningen IDA"
 description: "Ingeniørforeningen IDA wanted to gather its three existing websites under one single portal on top of a rebranded and unifying UI to increase coeherence between their offers and products"
 cover: "/cover/ida.mp4"

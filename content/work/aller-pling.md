@@ -1,5 +1,5 @@
 ---
-sort_order: 2
+sort_order: 3
 client: "aller"
 title: "Aller Pling"
 description: "Pling offers customers all their favorite magazines gathered in one app, always providing the latest issue at their fingertips, whether they’re reading at home, on the train or on vacation."

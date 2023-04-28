@@ -44,6 +44,11 @@ const Case = styled.div`
 	margin-bottom: 1rem;
 	position: relative;
 	overflow: hidden;
+	height: 97%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #000;
 
 	${props => props.theme.breakpoints('xl')`
 		margin-bottom: 0;

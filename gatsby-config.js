@@ -7,7 +7,7 @@
 module.exports = {
 	siteMetadata: {
 		title: `BUSY ApS`,
-		description: `We create purpose driven user interface concepts for any suited media, either from our office in Copenhagen or in your house - and always in close collaboration with your people.`,
+		description: `We create purpose-driven user interfaces for any platform, collaborating closely with your team either from our Copenhagen office or at your location.`,
 		author: `BUSY ApS`,
 	},
 	/* Your site config here */
