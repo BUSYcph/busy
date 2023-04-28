@@ -40,21 +40,21 @@ const Description = styled.p`
 export default () => (
 	<About>
 		<Usp>
-			<Fact>Always asking "Why?"</Fact>
+			<Fact>Always Asking "Why?"</Fact>
 			<Description>
-				We have a purpose driven mindset. We need to understand why something needs to exist in order to be able to deliver. And we can also help you understand your existing systems.<br />"Why?" eats "How?" and "What?" for breakfast.
+				We embrace a purpose-driven mindset. To deliver effectively, we need to understand why something exists, and we can help you make sense of your existing systems. "Why?" trumps "How?" and "What?" every time.
 			</Description>
 		</Usp>
 		<Usp>
-			<Fact>Loving to fail. Learning to rule.</Fact>
+			<Fact>Love to Fail, Learn to Rule</Fact>
 			<Description>
-				Ok... <em>loving</em> might be stretching it. Let's file that phrasing in the &quot;mistakes&quot; column. But we're always eager to try our theories fast and thereby welcome the risk that follows. We have a pragmatic approach to creation; Build the minimal viable product, throw it out there, observe the leaks, patch it up and from thereon out improve by repeating the process.
+				While <em>love</em> might be a stretch, we're always eager to test our theories quickly and embrace the risks that follow. Our pragmatic approach to creation involves building a minimum viable product, launching it, identifying weaknesses, making improvements, and repeating the process.
 			</Description>
 		</Usp>
 		<Usp>
-			<Fact>Way of working is key!</Fact>
+			<Fact>Way of Working is Key!</Fact>
 			<Description>
-				When we've learned why we're here and embraced our mistakes, it's time we consolidate our knowledge in a way that makes us effective in our continouous operation. We love to document way-of-working in light digestible products that will help ease creator convenience.
+				Once we understand our purpose and learn from our mistakes, it's time to consolidate our knowledge for efficient and continuous operation. We enjoy documenting our way of working in easily digestible formats that streamline the creative process.
 			</Description>
 		</Usp>
 	</About>
