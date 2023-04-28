@@ -47,7 +47,7 @@ export default () => (
 	<Disciplines>
 		<Inner>
 			<Heading>Things we do with pleasure</Heading>
-			<Discipline><Emoji role="img" ariaHidden="true">🦾</Emoji><strong>Frontend Code</strong> React, JavaScript, HTML, CSS, implementing UI for CMS systems of any kind... you name it.</Discipline>
+			<Discipline><Emoji role="img" ariaHidden="true">🦾</Emoji><strong>Frontend Code</strong> React, TypeScript, HTML, CSS, implementing UI for CMS systems of any kind... you name it.</Discipline>
 			<Discipline><Emoji role="img" ariaHidden="true">💅</Emoji><strong>UX / Wireframe / Graphical Design</strong> Design Sprints, Figma (and Sketch, Invision Studio etc.), Photoshop, Illustrator, Procreate, Animation, etc.</Discipline>
 			<Discipline><Emoji role="img" ariaHidden="true">👩‍⚕️</Emoji><strong>Health Checks</strong> Performance Audits, Code Refactoring, Optimisations.</Discipline>
 			<Discipline><Emoji role="img" ariaHidden="true">💼</Emoji><strong>Other Consulting Stuff</strong> Mentoring, Teaching, Buddy Training.</Discipline>
