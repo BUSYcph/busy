@@ -8,18 +8,12 @@ activities: ["UX", "Design", "Sketch", "AngularJS", "React", "CSS", "HTML"]
 examples: ["/video/client-work-molo.mp4"]
 ---
 
-Molo is children’s fashion that’s heavy on the charm.
+Molo is a captivating children's fashion brand that effortlessly combines charm and style.
 
-Their style is urban with funky, colourful designs that often have a humorous twist or are just quirky enough to get noticed - but never at the price of function and quality.
+Their designs are urban, featuring funky and colorful patterns that often incorporate a humorous twist or just the right amount of quirkiness to stand out – all without compromising on function and quality. Molo's aesthetic combines playful, witty details with a clean, "raw" Scandinavian look that truly sets it apart.
 
-The design is a mix of fun, witty details and a cleaner, “raw” Scandinavian look.
+BUSY has played an integral role in enhancing the online presence of Molo, working to expand features for their webshop at Molo.com. Additionally, BUSY has contributed to the development of new features and performance optimizations for Molo's suite of internal apps, which serve as essential tools for warehouse employees, store owners, and sales staff.
 
-&middot;
+Many of these apps are custom-built with an Angular frontend, showcasing the adaptability and technical expertise that BUSY brings to the table for its clients.
 
-BUSY has been working on expanding features for their webshop Molo.com.
-
-BUSY has also helped in the development for new features and performance optimisations in their internal apps which acts as vital tools for warehouse employees, store owners as well as sales staff.
-
-A lot of their apps are custom build on an Angular frontend.
-
-<a href="https://molo.com" target="_blank">Launch Molo site</a>
+<a href="https://molo.com" target="_blank">Visit the Molo site</a>

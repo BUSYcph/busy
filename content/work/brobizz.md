@@ -13,14 +13,14 @@ examples:
   ]
 ---
 
-BroBizz is a Danish system for electronic toll collection. It was established in 2008 and BroBizz A/S develops and manages the concept. BroBizz A/S is 100% owned by Sund & Bælt Holding A/S.
+BroBizz is a Danish system for electronic toll collection, established in 2008. BroBizz A/S, a company wholly owned by Sund & Bælt Holding A/S, develops and manages the concept.
 
-The project includes private and business areas, which are distributed across four country sites in two languages each. It is built on top of the CMS system Umbraco.
+The project encompasses private and business areas, distributed across four country sites, each available in two languages. It is built on the CMS system Umbraco.
 
-BUSY provided the entire frontend layer for the assignment. We built a design system driven component library, which in its robust and reusable nature ensures a high brand consistency throughout the application.
+BUSY was responsible for developing the entire frontend layer for the assignment. They created a design system-driven component library that ensures high brand consistency throughout the application, thanks to its robust and reusable nature.
 
-The server side rendered React-application is used both on the public facing site, as well as being cleverly mounted in small chunks in the preview function of the CMS system, so that the editor will always be served the same view in the CMS when editing as the final result will render for the page visitors.
+The server-side rendered React application is used both on the public-facing site and within the CMS system's preview function. This clever approach ensures that editors always see the same view when editing content as the final result displayed to page visitors.
 
-BUSY delivered the assignment in a role as a subcontractor for the digital agency, <a href="https://applygroup.dk" target="_blank">Apply</a>, and we did so in only 6 weeks.
+BUSY completed the assignment as a subcontractor for the digital agency, <a href="https://apply.agency" target="_blank">Apply</a>, and delivered the project in just 6 weeks.
 
 <a href="https://brobizz.com" target="_blank">Launch BroBizz site</a>

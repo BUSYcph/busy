@@ -13,13 +13,11 @@ examples:
   ]
 ---
 
-Pling offers customers all their favorite magazines gathered in one app, always providing the latest issue at their fingertips, whether they’re reading at home, on the train or on vacation.
+Pling offers customers access to all their favorite magazines in one convenient app, ensuring the latest issues are always at their fingertips, whether they're reading at home, on the train, or on vacation.
 
-A large selection of both Danish and international titles are available, which means exciting reading material for the whole family - from the latest gossip to sports and gadgets and inspiration within beauty, housing, health and lifestyle.
+The app features a wide selection of both Danish and international titles, providing exciting reading material for the whole family – from the latest gossip to sports, gadgets, beauty, home, health, and lifestyle content.
 
-&middot;
-
-As a subcontractor to the consultancy agency [Immeo](https://immeo.dk), BUSY has been responsible for translating the design composition made in Sketch into a plug-and-play UI component library, which the entire user interface on the onboarding site pling.dk is based upon.
+As a subcontractor to the Danish consultancy agency Immeo, BUSY was responsible for translating the design composition created in Sketch into a plug-and-play UI component library. This library forms the foundation of the entire user interface on the onboarding site, pling.dk. Throughout the project, BUSY maintained close communication with both Immeo and the client to ensure high-quality results.
 
 <a href="https://pling.busycph.dk" target="_blank">See the UI component library</a>
 

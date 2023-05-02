@@ -12,14 +12,10 @@ examples:
   ]
 ---
 
-Aarstiderne's idea is simple
+Aarstiderne's concept is elegantly simple:
 
-They grow organic vegetables in their garden and pack the season's best organic produce in a box, add recipes written for tasty everyday meals and deliver the box to customer’s front doors. They deliver vegetable and fruit boxes with fish and meal boxes, containing all the ingredients as well as recipes for 2 or 3 meals.
+They cultivate organic vegetables in their garden and hand-select the season's finest produce to fill a box, complete with recipes crafted for delicious everyday meals. This box is then delivered straight to customers' front doors. Aarstiderne offers vegetable and fruit boxes, as well as fish and meal boxes containing all the necessary ingredients and recipes for 2 or 3 meals.
 
-They deliver to around 45,000+ households in Denmark and 10,000 in Sweden. It's all about the joy of organic vegetables and tasty meals and Aarstiderne grows, like the seasons, year on year.
+With deliveries reaching around 45,000+ households in Denmark and 10,000 in Sweden, Aarstiderne is all about celebrating organic vegetables and delightful meals, growing and evolving with the seasons, year after year.
 
-&middot;
-
-BUSY created a new front page for their site targeted at new visitors and with a purpose to tell Aarstidernes brand story which enables them differentiate themselves from their competitors.
-
-It was an app-like experience rich on animation and modern navigation patterns.
+BUSY took on the task of creating a new front page for Aarstiderne's website, specifically targeting new visitors. The goal was to effectively convey the brand's unique story and differentiate them from competitors. The result was an app-like experience with engaging animations and modern navigation patterns, capturing the essence of Aarstiderne's commitment to quality and sustainability while showcasing their innovative approach to healthy living.
